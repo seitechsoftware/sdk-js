@@ -1,0 +1,27 @@
+{
+  "name": "tlg-sdk",
+  "version": "1.0.0",
+  "description": "TLG Commerce JS SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seitechsoftware/sdk-js.git"
+  },
+  "keywords": [
+    "tlg",
+    "tlgcommerce",
+    "sdk",
+    "javascript",
+    "js",
+    "api"
+  ],
+  "author": "SEITECH Software",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seitechsoftware/sdk-js/issues"
+  },
+  "homepage": "https://github.com/seitechsoftware/sdk-js#readme"
+}
